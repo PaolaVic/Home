@@ -1,0 +1,14 @@
+.titulo{
+    color: ##ef786c;
+    text-align: center;
+}
+body{
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+.img{
+    width: 910x;
+    height: 490px;
+    display: block;
+    margin: 0 auto;
+}
